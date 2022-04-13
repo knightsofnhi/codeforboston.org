@@ -13,13 +13,13 @@ For example, our very own Annie LaCourt (in our leadership team) is an avid weig
 
 What do you like to do outside of civic tech that may surprise people?
 
-## Job Openings!
+## Job Openings
 - [Institute for Nonprofit Practice is accepting applications for their fellowship/professional development programs and are offering tuition subsidies up to 100% for anyone who needs one.](https://www.nonprofitpractice.org/applications/)
 - [Cortico is hiring for an Engineering Team Lead!](https://cortico.ai/careers/engineering-team-lead/)
 - [Paychex is hiring for 20+ engineering roles and more!](https://paychex.recsolu.com/jobs/1d3Pou9DFEfssqacT7l9Rw)
 - [Work at CharlieHealth to reduce teenage suicide rates!](https://www.charliehealth.com/)
 
-## Events:
+## Events
 - April 13: [Data Sharing and Platform Urbanism: Contested Digital Sovereignty in the Emergent ‘Smart City’](https://www.eventbrite.com/e/comms-api-tech-10-boston-with-github-infobip-workshop-networking-tickets-311785527907)
 - April 14: [Comms API Tech #10 - Boston with GitHub & Infobip Workshop & Networking](https://www.eventbrite.com/e/comms-api-tech-10-boston-with-github-infobip-workshop-networking-tickets-311785527907).
 - April 26: [Suffolk’s Legal Innovation and Technology (LIT) Lab](https://suffolklitlab.org/events/lookahead/)
