@@ -21,7 +21,7 @@ What do you like to do outside of civic tech that may surprise people?
 
 ## Events
 - April 13: [Data Sharing and Platform Urbanism: Contested Digital Sovereignty in the Emergent ‘Smart City’](https://www.eventbrite.com/e/comms-api-tech-10-boston-with-github-infobip-workshop-networking-tickets-311785527907)
-- April 14: [Comms API Tech #10 - Boston with GitHub & Infobip Workshop & Networking](https://www.eventbrite.com/e/comms-api-tech-10-boston-with-github-infobip-workshop-networking-tickets-311785527907).
+- April 14: [Comms API Tech #10 - Boston with GitHub & Infobip Workshop & Networking](https://www.eventbrite.com/e/comms-api-tech-10-boston-with-github-infobip-workshop-networking-tickets-311785527907)
 - April 26: [Suffolk’s Legal Innovation and Technology (LIT) Lab](https://suffolklitlab.org/events/lookahead/)
 - April 20-21: [ODSC East 2022 | Open Data Science Conference](https://odsc.com/boston/#register)
 
