@@ -32,7 +32,7 @@ What do you like to do outside of civic tech that may surprise people?
 - [Recently released version 4 of the testing framework](https://suffolklitlab.org/docassemble-AssemblyLine-documentation/docs/automated_integrated_testing/)
 - Working on efiling needs for the testing framework, as well as bulk tests, and discussions on random input testing.
 
-### Police Data Trust
+### National Police Data Coalition
 - Getting PR ready
 - Scheduling date for user testing
 
