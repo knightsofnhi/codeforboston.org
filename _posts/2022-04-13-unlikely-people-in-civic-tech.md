@@ -9,9 +9,9 @@ I graduated from a coding bootcamp at Harvard Extension School, but I don't hard
 There is a slight misconception that Code for Boston consists of only developers and that those developers are of a specific demographic. That is not true here nor out there.
 All tech projects require both code and non-code roles to function properly and those roles are filled by people from all walks of life and demographics.
 
-For example, our very own Annie LaCourt in our leadership team is an avid weight lifter. When she's not working at her day job or leading on Mattapan Mapping, she's [dead-lifting 280 pounds at the gym.](https://media.giphy.com/media/7wrO5zq0GDSWVk1yOi/giphy.gif)
+For example, our very own Annie LaCourt (in our leadership team) is an avid weight lifter. When she's not working at her day job or leading on our civic tech project, Mattapan Mapping, she's [dead-lifting 280 pounds at the gym.](https://media.giphy.com/media/7wrO5zq0GDSWVk1yOi/giphy.gif)
 
-What's your hobby outside of civic tech?
+What do you like to do outside of civic tech that may surprise people?
 
 ## Job Openings!
 - [Institute for Nonprofit Practice is accepting applications for their fellowship/professional development programs and are offering tuition subsidies up to 100% for anyone who needs one.](https://www.nonprofitpractice.org/applications/)
@@ -24,7 +24,6 @@ What's your hobby outside of civic tech?
 - April 14: [Comms API Tech #10 - Boston with GitHub & Infobip Workshop & Networking](https://www.eventbrite.com/e/comms-api-tech-10-boston-with-github-infobip-workshop-networking-tickets-311785527907).
 - April 26: [Suffolk’s Legal Innovation and Technology (LIT) Lab](https://suffolklitlab.org/events/lookahead/)
 - April 20-21: [ODSC East 2022 | Open Data Science Conference](https://odsc.com/boston/#register)
-
 
 ## Project Updates
 
