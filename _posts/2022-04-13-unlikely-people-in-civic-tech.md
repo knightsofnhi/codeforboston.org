@@ -4,10 +4,9 @@ title: Unlikely People in Civic Tech!
 ---
 Greetings Civic Hackers!
 
-It is Nhi [n-yee]. (Matt is away at the moment.) I am a non-coder, such as some of you who are product managers and the like. I help out in communications at Code for Boston.
+It is Nhi [n-yee]. (Matt is away at the moment.) I am a non-coder like some of you who are product managers, project managers, solutions engineers, and more. I help out in communications at Code for Boston.
 I graduated from a coding bootcamp at Harvard Extension School, but I don't hard-code for a living. I've been using my beginner's knowledge of full stack web development to manage web-based/SAAS projects and create/maintain basic websites.
-There is a slight misconception that Code for Boston consists of only developers and that those developers are of a specific demographic. That is not true here nor out there.
-All tech projects require both code and non-code roles to function properly and those roles are filled by people from all walks of life and demographics.
+There is a slight misconception that Code for Boston consists of only developers and that those developers are of a specific demographic. The truth is all tech projects require both code and non-code roles to function properly and those roles are filled by people from all walks of life and demographics.
 
 For example, our very own Annie LaCourt (in our leadership team) is an avid weight lifter. When she's not working at her day job or leading on our civic tech project, Mattapan Mapping, she's [dead-lifting 280 pounds at the gym.](https://www.youtube.com/watch?v=3PastdCCi3w)
 
