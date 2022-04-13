@@ -9,7 +9,7 @@ I graduated from a coding bootcamp at Harvard Extension School, but I don't hard
 There is a slight misconception that Code for Boston consists of only developers and that those developers are of a specific demographic. That is not true here nor out there.
 All tech projects require both code and non-code roles to function properly and those roles are filled by people from all walks of life and demographics.
 
-For example, our very own Annie LaCourt (in our leadership team) is an avid weight lifter. When she's not working at her day job or leading on our civic tech project, Mattapan Mapping, she's [dead-lifting 280 pounds at the gym.](https://media.giphy.com/media/7wrO5zq0GDSWVk1yOi/giphy.gif)
+For example, our very own Annie LaCourt (in our leadership team) is an avid weight lifter. When she's not working at her day job or leading on our civic tech project, Mattapan Mapping, she's [dead-lifting 280 pounds at the gym.](https://www.youtube.com/watch?v=3PastdCCi3w)
 
 What do you like to do outside of civic tech that may surprise people?
 
